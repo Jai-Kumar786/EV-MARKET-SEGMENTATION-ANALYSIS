@@ -1,0 +1,5 @@
+Cluster,States_Included,Market_Share_%,Total_Monthly_Sales,Dominant_Vehicle_Type,Primary_Use_Case,Infrastructure_Level,Urbanization_Level
+Tier 1: EV Leaders,"Uttar Pradesh, Maharashtra, Karnataka",46.74,61751,"3-Wheelers (E-Rickshaw), 2-Wheelers","Shared Mobility (E-Rickshaw), Personal (2W)",High,High Urban + Rural mix
+Tier 2: Emerging Markets,"Bihar, Delhi, Rajasthan, Kerala, Tamil Nadu",27.38,36177,"2-Wheelers, 3-Wheelers","Personal Mobility, Last-Mile Connectivity",Medium to High,High Urban concentration
+Tier 3: Growth Markets,"Gujarat, Madhya Pradesh, Odisha, Assam, West Bengal",20.82,27511,2-Wheelers,Personal Mobility,Medium,Mixed Urban-Rural
+Tier 4: Early Adopters,"Jharkhand, Punjab, Haryana, Chhattisgarh, Uttarakhand",5.06,6687,"E-Rickshaws, 2-Wheelers","Shared Mobility, Personal Use",Low to Medium,Moderate Urban

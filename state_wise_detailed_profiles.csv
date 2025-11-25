@@ -1,0 +1,11 @@
+State,Total_Sales,Market_Share_%,Top_Vehicle_1,Top_Vehicle_2,Recommended_Product,Target_Customer
+Uttar Pradesh,29893,22.63,"E-Rickshaw (20,352)","2-Wheeler (5,379)",Low-Speed E-Rickshaw + Budget 2W,"Gig Economy Workers, Budget-conscious"
+Maharashtra,17398,13.17,"2-Wheeler (15,430)",4-Wheeler (993),Premium 2W + 4W EV,"Urban Middle-class, Premium buyers"
+Karnataka,14460,10.94,"2-Wheeler (13,700)",4-Wheeler (760),Premium 2W + High-end 4W,"Tech-savvy, High-income professionals"
+Bihar,9057,6.86,"E-Rickshaw (7,217)","2-Wheeler (1,348)",E-Rickshaw (Shared Mobility),"Rural-Urban commuters, Drivers"
+Delhi,8793,6.66,"2-Wheeler (5,380)","E-Rickshaw (2,005)",Premium 2W + E-Rickshaw,"Urban professionals, Young buyers"
+Rajasthan,7526,5.7,"2-Wheeler (4,586)","E-Rickshaw (2,101)",E-Rickshaw + Mid-range 2W,"Mixed urban-rural, Middle income"
+Kerala,6396,4.84,"2-Wheeler (5,351)",4-Wheeler (633),Premium 2W + Mid-range 4W,"Educated, Environmentally conscious"
+Tamil Nadu,5705,4.32,"2-Wheeler (5,196)",4-Wheeler (509),Premium 2W + 4W Sedan,"Middle to High income, Urban"
+Gujarat,5667,4.29,"2-Wheeler (5,080)",4-Wheeler (587),Premium 2W + 4W SUV,"Business owners, Middle to High income"
+Madhya Pradesh,5562,4.21,"2-Wheeler (3,346)","E-Rickshaw (2,216)",E-Rickshaw + Budget 2W,"Cost-conscious, Mixed demographics"
